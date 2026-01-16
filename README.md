@@ -7,5 +7,5 @@ const profile = {
   affiliation: "Democritus University of Thrace (DUTh)",
   field: "Reinforcement Learning",
   team: "ConvCao",
-  note: "Current code is private due to thesis work and pending publications."
+  status: "Current code is private due to thesis work and pending publications."
 }
