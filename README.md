@@ -4,8 +4,13 @@
 const profile = {
   name: "Stelios",
   role: "PhD Student",
-  affiliation: "Democritus University of Thrace (DUTh)",
-  field: "Reinforcement Learning",
-  team: "AURA Lab",
-  status: "Current code is private due to thesis work and pending publications."
+  affiliation: "",
+  lab: "AURA Lab",
+  research: [
+    "Reinforcement Learning",
+    "Offline Reinforcement Learning",
+    "Imitation Learning",
+    "Generative Models"
+  ],
+  status: "Research code is currently private due to ongoing thesis work and pending publications."
 }
